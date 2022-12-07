@@ -1,0 +1,33 @@
+ body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: lightblue;
+}
+
+#head-div {
+    background-color: grey;
+}
+
+#head-div p {
+    font-weight: bold;
+    white-space: 2;
+}
+
+#main-div button{
+    width: 130px;
+    margin-top: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background-color: white;
+    margin-bottom: 0;
+        width: 100%;
+        color: grey;
+        line-height: 3;
+        text-shadow: 5px 5px 5px grey;
+        text-align: center;
+
+}
